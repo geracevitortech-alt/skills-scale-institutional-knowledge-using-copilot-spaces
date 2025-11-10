@@ -32,7 +32,7 @@ Our project management processes are organized into focused guides that cover ea
 
 ## Templates and Checklists
 
-Ready-to-use templates and checklists support consistent project execution across all phases:
+Ready-to-use templates and checklists support consistent project execution across all phases. See the **[Templates README](../templates/README.md)** for detailed usage guidance.
 
 - **[Risk Register Template](../templates/risk-register-template.md)** – Comprehensive risk tracking with scoring guidelines, status tracking, and escalation paths
 - **[Change Control Template](../templates/change-control-template.md)** – Structured change request evaluation with impact analysis, approval workflow, and implementation tracking

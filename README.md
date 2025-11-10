@@ -10,6 +10,17 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 [![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/geracevitortech-alt/skills-scale-institutional-knowledge-using-copilot-spaces/issues/1)
 
+## OctoAcme Project Management Documentation
+
+This repository contains comprehensive project management documentation for OctoAcme, including process guides, role definitions, and ready-to-use templates.
+
+**📚 [View Documentation Hub](docs/README.md)** - Start here for a complete overview of project management processes, roles, and resources.
+
+### Quick Links
+- [Project Management Overview](docs/octoacme-project-management-overview.md)
+- [Roles and Personas](docs/octoacme-roles-and-personas.md) - Developer, PM, PdM, QA Lead, Risk Manager, Change Control Lead, Stakeholder Coordinator
+- [Templates and Checklists](templates/README.md) - Risk Register, Change Control, Release Criteria, Stakeholder Communication
+
 ---
 
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
