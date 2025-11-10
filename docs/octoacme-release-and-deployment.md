@@ -15,6 +15,8 @@ Standardize how OctoAcme releases features to production to reduce risk and impr
 - Rollback / mitigation plan documented
 - Smoke tests prepared
 
+Use the [Release Criteria Checklist](../templates/release-criteria-checklist.md) for a comprehensive pre-release validation process covering code quality, testing, security, documentation, and stakeholder approvals.
+
 ## Deployment Checklist
 - [ ] Deployment window scheduled (if needed)
 - [ ] Backup or snapshot (if applicable)

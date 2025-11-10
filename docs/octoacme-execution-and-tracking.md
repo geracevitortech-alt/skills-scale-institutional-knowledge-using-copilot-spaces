@@ -23,6 +23,8 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
 
+The Quality Assurance Lead oversees testing strategies and validates acceptance criteria. See [Roles and Personas - Quality Assurance Lead](octoacme-roles-and-personas.md#quality-assurance-lead) for detailed responsibilities. Use the [Release Criteria Checklist](../templates/release-criteria-checklist.md) to ensure comprehensive quality validation before release.
+
 ## Reporting & Metrics
 - Track velocity and burndown
 - Monitor success metrics identified in the Project One-pager

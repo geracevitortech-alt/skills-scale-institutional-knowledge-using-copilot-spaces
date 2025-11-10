@@ -35,6 +35,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
   - ID, Description, Impact, Probability, Owner, Mitigation
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
 
+Use the [Risk Register Template](../templates/risk-register-template.md) for comprehensive risk tracking. For any changes to project scope, schedule, or requirements, use the [Change Control Template](../templates/change-control-template.md) to ensure proper evaluation and approval.
+
 ## Planning Checklist
 - [ ] Project kickoff held
 - [ ] Backlog prioritized and estimated

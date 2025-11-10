@@ -14,19 +14,28 @@ Applies to all cross-functional projects that deliver product features, services
 - Psychological safety: encourage feedback and learning.
 
 ## Core Roles
-- Project Manager (PM): coordinates delivery, schedules, risk, communications.
-- Product Manager (PdM): defines outcomes, prioritizes backlog, and measures success.
-- Developers: implement features, collaborate on design and testability.
-- QA/Testing: validate quality and acceptance criteria.
-- Stakeholders: provide inputs and approvals.
+- **Project Manager (PM):** Coordinates delivery, schedules, risk, and communications.
+- **Product Manager (PdM):** Defines outcomes, prioritizes backlog, and measures success.
+- **Developers:** Implement features, collaborate on design and testability.
+- **Quality Assurance Lead:** Defines quality standards, oversees testing strategies, and ensures acceptance criteria are met.
+- **Risk Manager:** Identifies, assesses, tracks, and mitigates project risks throughout the lifecycle.
+- **Change Control Lead:** Manages change requests, evaluates impacts, and maintains change governance.
+- **Stakeholder Engagement Coordinator:** Manages stakeholder relationships, communications, and alignment.
+
+See [Roles and Personas](octoacme-roles-and-personas.md) for detailed role descriptions and interactions.
 
 ## Key Artifacts
 - Project Charter / One-pager
 - Roadmap and Release Plan
 - Sprint/Iteration Backlog
 - Acceptance Criteria & Definition of Done
-- Risk Register
+- [Risk Register](../templates/risk-register-template.md)
+- [Change Control Log](../templates/change-control-template.md)
+- [Release Criteria Checklist](../templates/release-criteria-checklist.md)
+- [Stakeholder Communication Plan](../templates/stakeholder-communication-checklist.md)
 - Retrospective notes and action items
+
+See the [templates/](../templates/) directory for ready-to-use templates.
 
 ## Lifecycle (high-level)
 1. Initiation: problem statement, stakeholders, high-level timeline.

@@ -13,6 +13,8 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+Use the [Risk Register Template](../templates/risk-register-template.md) for a comprehensive, ready-to-use format with scoring guidelines and tracking mechanisms.
+
 ## Risk Lifecycle
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
@@ -23,6 +25,8 @@ Maintain a simple table with:
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)
 - Provide regular updates (weekly or milestone-based)
 - Use a single source of truth (project README or release doc) for status
+
+Use the [Stakeholder Communication Checklist](../templates/stakeholder-communication-checklist.md) to ensure comprehensive stakeholder engagement throughout the project lifecycle.
 
 ## Communication Templates
 Weekly Status Template:

@@ -28,7 +28,18 @@ Our project management processes are organized into focused guides that cover ea
 
 ### Supporting Documentation
 
-- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed definitions of Developer, Product Manager, and Project Manager roles, including responsibilities, goals, and communication patterns
+- **[Roles and Personas](octoacme-roles-and-personas.md)** – Detailed definitions of all project roles including Developer, Product Manager, Project Manager, Quality Assurance Lead, Risk Manager, Change Control Lead, and Stakeholder Engagement Coordinator—with responsibilities, goals, and interaction patterns
+
+## Templates and Checklists
+
+Ready-to-use templates and checklists support consistent project execution across all phases:
+
+- **[Risk Register Template](../templates/risk-register-template.md)** – Comprehensive risk tracking with scoring guidelines, status tracking, and escalation paths
+- **[Change Control Template](../templates/change-control-template.md)** – Structured change request evaluation with impact analysis, approval workflow, and implementation tracking
+- **[Stakeholder Communication Checklist](../templates/stakeholder-communication-checklist.md)** – Phase-by-phase communication planning from initiation through closure, ensuring consistent stakeholder engagement
+- **[Release Criteria Checklist](../templates/release-criteria-checklist.md)** – Comprehensive pre-release validation covering code quality, testing, security, documentation, and deployment readiness
+
+These templates are referenced throughout the process documents and can be copied into your project repository for immediate use.
 
 ## Getting Started
 
@@ -46,12 +57,17 @@ Use these documents as templates and checklists for running projects:
 - Follow **[Project Planning](octoacme-project-planning.md)** for kickoffs and backlog creation
 - Use **[Execution & Tracking](octoacme-execution-and-tracking.md)** for day-to-day coordination
 - Consult **[Risk Management & Communication](octoacme-risks-and-communication.md)** for stakeholder updates and risk tracking
+- Copy templates from the **[templates/](../templates/)** directory into your project repository:
+  - [Risk Register Template](../templates/risk-register-template.md) for risk tracking
+  - [Change Control Template](../templates/change-control-template.md) for managing scope and requirement changes
+  - [Stakeholder Communication Checklist](../templates/stakeholder-communication-checklist.md) for engagement planning
 
 ### For Developers and Contributors
 
 Focus on:
 - **[Execution & Tracking](octoacme-execution-and-tracking.md)** for PR workflows and quality standards
 - **[Release & Deployment Guide](octoacme-release-and-deployment.md)** when preparing releases
+- **[Release Criteria Checklist](../templates/release-criteria-checklist.md)** to ensure your changes meet all quality gates
 - **[Retrospective & Continuous Improvement](octoacme-retrospective-and-continuous-improvement.md)** for post-project learning
 
 ## Contributing to Documentation
